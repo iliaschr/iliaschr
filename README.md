@@ -1,7 +1,11 @@
-# iliaschr 👨‍💻
+<h1>
+  Hello world!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<p>
-  <em>
-  I am a 1st Year undergraduate from NKUA Department of Informatics and Telecommunications. 
-  </em>  
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+
