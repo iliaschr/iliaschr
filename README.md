@@ -7,5 +7,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+---
 
+<h2 align="left"> Languages, Tools and Enviroments: </h2>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,bash,linux,windows,vscode)](https://skillicons.dev)
+
+
+---
 
